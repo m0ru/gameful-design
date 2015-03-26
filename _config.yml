@@ -7,7 +7,7 @@ baseurl: "/gameful-design" # the subpath of your site, e.g. /blog/
 url: "http://m0ru.github.io" # the base hostname & protocol for your site
 twitter_username: the_moru
 github_username:  m0ru
-foo: url+baseurl 
+media_url: "http://m0ru.github.io/gameful-design/media"
 
 # Build settings
 markdown: kramdown

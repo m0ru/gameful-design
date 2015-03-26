@@ -82,7 +82,7 @@ Cover doesn't apply against pillow swinging (melee).
 ![Taking cover at a corner of a wall - being attacked - illustration]({{site.media_url}}/{{page.media_dir}}/cover_corner.svg)
 
 ![Throwing around corner - Illustration]({{site.media_url}}/{{page.media_dir}}/cover_corner_reverse.svg)
-![Throwing along wall - Illustration]({{site.media_url}}/{{page.media_dir}}/cover_along_walls.svg)
+![Throwing along wall - Illustration]({{site.media_url}}/{{page.media_dir}}/cover_along_wall.svg)
 
 ## Victory Condition
 
@@ -93,13 +93,13 @@ The game ends when either a player lands **5 hits**, or when all the pillows hav
 
 Directly below you can see a photo of the game in the first few turns, the **pillows** (white checkers pieces) are spaced out relatively evenly, concentrating slightly on the **furniture** (pieces of paper with tables and couches on them). The long, blank pieces of paper represent **walls**. The colourful pieces are the **players**.
 
-![Board during Early Game]({{site.media_url}}/{{page.media_dir}}/ early_game.jpg)
+![Board during Early Game]({{site.media_url}}/{{page.media_dir}}/early_game.jpg)
 
 The **first-turn advantage** solves itself, as going first means you get to **throw first**, however people can react to you during setup and **pick starting locations that counter** yours (e.g. behind walls)
 
 The following photo was taken at the end of our last playtest. Due to melee mechanic that allows for **pillows to tear**, almost all pillows were used up (except for the top right corner). We have included that mechanic **to fix "melee"**, which models hits with pillows where you keep holding them. The last part was what made it superior in almost all situations to throwing (and thus losing) your pillow. Before we introduced the mechanic, games consisted of people just piling somewhere on the map and taking turns to just roll the dice, thus forgoing the **game depth** that comes from **positioning** and **planning** with and around the use of **cover**. Now there's a definitive **trade-off** between melee and ranged that has to be evaluated for every situation, thus adding **choice**
 
-![Board during Late Game]({{site.media_url}}/{{page.media_dir}}/ late_game.jpg)
+![Board during Late Game]({{site.media_url}}/{{page.media_dir}}/late_game.jpg)
  
 We suggest playing the game with at least three players or factions, as this allows for the third party to exploit and thus break-up stale-mates between the first two. This ensures a dynamic gameplay. Also the possibilty for alliances somewhat counter-balances any inequalities from different skill-levels to imbalanced map setup.
 

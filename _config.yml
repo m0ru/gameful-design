@@ -2,7 +2,7 @@
 title: Gameful Design
 email: kevin.singer@student.tuwien.ac.at
 description: > # this means to ignore newlines until "baseurl:"
-    Status updates and results by <a href='http://twitter.com/the_moru'>@the_moru</a> for the 'Game A Week'-challenge will be posted here. The challenge is part of the course Gameful Design (by @peterpur) at the TU Vienna.
+    Status updates and results by <a href='http://twitter.com/the_moru'>@the_moru</a> for the rapid prototyping challenge will be posted here. The challenge is part of the course Gameful Design (by @peterpur) at the TU Vienna.
 baseurl: "/gameful-design" # the subpath of your site, e.g. /blog/
 url: "http://m0ru.github.io" # the base hostname & protocol for your site
 twitter_username: the_moru

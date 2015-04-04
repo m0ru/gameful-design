@@ -2,7 +2,7 @@
 layout: post
 title:  "Challenge 1 ⇾ Subjective Objectives"
 date:   2015-03-12 01:02:00
-media_dir: "subjectie_objectives"
+media_dir: "subjective_objectives"
 ---
 
 <!-- TODO title's too long. Put into abstract.

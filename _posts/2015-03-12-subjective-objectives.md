@@ -2,7 +2,7 @@
 layout: post
 title:  "Challenge 1 ⇾ Subjective Objectives"
 date:   2015-03-12 01:02:00
-media_dir: "subjectie_objective"
+media_dir: "subjectie_objectives"
 ---
 
 <!-- TODO title's too long. Put into abstract.
@@ -19,7 +19,7 @@ Take a look at the [**written notes and sketches**]({{site.media_url}}/{{page.me
 
 Most of the [generators](https://designerlythinking.wordpress.com/2011/04/10/inductive-design-and-the-%E2%80%98primary-generator%E2%80%99/) fall into roughly two categories: those **starting from mechanics** (like "bidding systems" or "hidden objectives/values") and those approaching the challenge **from a more thematic angle** (like "food waste & dumpstering", "lifestyle priorities in shared living" and "poverty and human needs"). Some yet fell in neither (e.g. "realising your own values/priorities via a questionaire and guessing another's answers").
 
-Somewhere around the halfway point of the initial sketching the rough idea for "Subjective Objective" had already evolved as something that should be playable (and most likely also enjoyable) from beginning to end (page 2 and 3 in the linked pdf). What really itched me at that point, was that except for superficial theming the "only" (one of two) mechanic(s) linking it to the challenge was the one of **"hidden objectives/values"**. Thus I tried hard to come up with enjoyable and fitting mechanics for the theme-based generators. However I utterly failed to find anything that both fit any of the themes and might create good gameplay (pages 5 to 8). Thus **I decided for playability over strong theming** and went for "Subjective Objective" which I had already designed on a bit (pages 3 to 5). 
+Somewhere around the halfway point of the initial sketching the rough idea for "Subjective Objectives" had already evolved as something that should be playable (and most likely also enjoyable) from beginning to end (page 2 and 3 in the linked pdf). What really itched me at that point, was that except for superficial theming the "only" (one of two) mechanic(s) linking it to the challenge was the one of **"hidden objectives/values"**. Thus I tried hard to come up with enjoyable and fitting mechanics for the theme-based generators. However I utterly failed to find anything that both fit any of the themes and might create good gameplay (pages 5 to 8). Thus **I decided for playability over strong theming** and went for "Subjective Objectives" which I had already designed on a bit (pages 3 to 5). 
 
 The game started out from the "hidden and subjective objectives/idea"-idea with a sprinkle of "let's **break** a bit **with classical card-gameplay** like poker-/schnapsen". The first version was sort of a directed domino where every player tries to play towards their respective target point/location which are close together - at first cooperating to move forward in the rough direction of their goals but working against each other more by the end (see page 2 at the bottom left). The other idea was to get players to try to construct simple poker hands (see page 3 at the top) discussing the idea with colleagues  while playing four-wins. After discussing the idea with a few colleagues I radically **simplified** it, at first only trying it with **one dimension** to **construct combinations** from (four colors as can be seen on page 3). After a bit more pondering and playing against myself I also **added the numbers** (one to four) as second dimension. Before that, deducing the opponents objective was too trivial. With these two dimension for combinations a limited amount of **deception/obfuscation**, to make deduction harder, **became possible**. 
 
@@ -66,4 +66,4 @@ Below you can find a video of two colleagues playing the game:
 
 # Side-Note for Grading
 
-I did this challenge **alone** (except for the one set of discussions mentioned above) and spent roughly **eight to nine hours** on the design and **another three** to write this article. 
+I did this challenge **alone** (except for the one set of discussions mentioned above) and spent roughly **nine hours** on the design and **another four** to write this article. 

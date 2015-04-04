@@ -1,9 +1,18 @@
 ---
 layout: post
-title:  "Challenge 2: No Frontier -> Pillow Fight"
+title:  "Challenge 2 ⇾ Pillow Fight"
 date:   2015-03-25 21:30:00
 media_dir: "pillow_fight"
 ---
+
+# The Challenge - No Frontier
+
+From "IRON DESIGNER CHALLENGE 5—WAR WITHOUT FRONTIERS", page 39:
+
+<blockquote>In games featuring the teritorial acquisition dynamic, and especially in war-themed games, territories are rarely acquired through a comical foot race. They’re usually acquired through the death, regardless of how abstracted, of another player’s bits. As a result of that death, the player gets the other player’s territory. Whoever has the territory wins the war. Another common dynamic, “destroy the opposing side,” is used for games that don’t have territory.
+For this exercise, however, you’ll be pushing yourself beyond those traditional borders. Simulate and resolve a Civil War battle without using territorial acquisition or destruction of all units on the enemy side as the primary gameplay dynamic.</blockquote>
+
+<blockquote>ergänzung: in unter 30 Minuten spielbar, dafür muss es nicht unbedingt bürgerkrieg sein.</blockquote>
 
 
 # The Process

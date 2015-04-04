@@ -43,7 +43,7 @@ And finally, as one of the games ended tied due to deck-death far too early in m
 The game can be played with **two to four players**. Playtests where made with **two players** so far, thus this is the **recommended** number of players for now.
 
 Every participating player gets a [**deck of cards**](
-{{{site.media_url}}/{{page.media_dir}}/subjective_objective__cards.pdf) with their chosen color (e.g. orange and violet in the linked pdf). Each deck should contain the numbers **one to four** in all of the **four colors** (yellow coins, green houses, red hearts, blue wrenches) **twice**. If you're printing the game, print the linked pdf twice!
+{{{site.media_url}}/{{page.media_dir}}/subjective_objective_cards.pdf) with their chosen color (e.g. orange and violet in the linked pdf). Each deck should contain the numbers **one to four** in all of the **four colors** (yellow coins, green houses, red hearts, blue wrenches) **twice**. If you're printing the game, print the linked pdf twice!
 
 As you can see, the card-set also contains **objective cards**. Create **two stacks** of these: one with the **numbers** one to four and one with the four **colors**. The objectives in each stack should be unique (i.e. every number and color should occur **exactly once**). Thus when printing, discard one set of objective cards.
 
@@ -66,4 +66,4 @@ Below you can find a video of two colleagues playing the game:
 
 # Side-Note for Grading
 
-I did this challenge **alone** (except for the one set of discussions mentioned above) and spent roughly **nine hours** on the design and **another four** to write this article. 
+I did this challenge **alone** (except for the one set of discussions mentioned above) and spent roughly **ten hours** on the design and **another four** to write this article. 

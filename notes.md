@@ -9,7 +9,7 @@
 
 ## Design Goals
 
-### Escapism 
+### Escapism
 
 * Ausflucht / Eintauchen
 * Persönliche Verwirklichung
@@ -29,7 +29,7 @@
 
 ### Persuasion
 
-* Darfur is Dying: 
+* Darfur is Dying:
     * Wells are empty really quick
     * have to leave village and travel farther and farther into the warzone
     * Family members dying one by one
@@ -83,6 +83,11 @@ ausbrechen aus dem engen rahmen
 
 
 TU Faculty - The Game
+
+# Lesson 4
+
+**situatedness** (nicht nur context, sondern auch beschaffenheit der situation, e.g. erwartungen, ideen bei der ankunft,...; nicht nur welche menschen sondern auch in welchem mindset sie ankommen)
+
 
 # Challenge 4
 

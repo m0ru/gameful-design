@@ -12,6 +12,11 @@ TODO:
 * card-sorting pics
 * scans of sketch-book
 
+
+META:
+
+using pictures: <img src="{{site.media_url}}/{{page.media_dir}}/someimg.jpg"></img>
+
 -->
 
 # Analysis of Settlers of Cagran
@@ -21,6 +26,8 @@ TODO:
 Suggestions for Improvement 
 
 link to code (TODO: expand readme.md there)
+
+
 
 -->
 

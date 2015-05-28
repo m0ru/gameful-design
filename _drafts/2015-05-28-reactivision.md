@@ -16,7 +16,14 @@ TODO:
 
 # Analysis of Settlers of Cagran
 
-## Suggestions for Improvement
+<!--
+
+Suggestions for Improvement 
+
+link to code (TODO: expand readme.md there)
+
+-->
+
 
 # Other Game Ideas
 

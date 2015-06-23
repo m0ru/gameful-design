@@ -8,13 +8,34 @@ media_dir: "educative_games"
 # 3 games
 
 * Mirrors Edge
-* League: ward's don't help you if you don't watch the minimap
+    * intro: criminalisation of activists
+    * portraial of surveillance-state
+* League: 
+    * ward's don't help you if you don't watch the minimap
+    * bullying / reporting / tribunal
 * the setting of dishonored?
     * tech-access as measure of power
 * gw2
-    * azura - science without bounds leading to much risk
+    * azura - tech without bounds leading to much risk
         * they're surveilling trolls (asymetrically)
+        * waking dragons in hunger for energy
     * char gen: all species, genders, skin colors, body types(?)
 * prison tycoon?
+* shadowrun
 * deus ex?
+    * transhumanism
+    * strong AI
+
+* Skinner-Boxing @ FB-Games
+
+* Fallout
+    * Some of the bunkers
+* Rust
+    * <https://www.youtube.com/watch?v=eh1zfdUTqBY>
+    * [Some Gameplay](https://www.youtube.com/watch?v=GopZRUyxxjw)
+    * cyberbullying
+* game dev tycoon
+    * <https://www.youtube.com/watch?v=pHAf2AgxET4> @ 29:00
+    * ends due to piracy in the version released on piratebay
+    * propaganda-game
 

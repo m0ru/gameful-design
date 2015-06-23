@@ -25,11 +25,14 @@ media_dir: "educative_games"
 * deus ex?
     * transhumanism
     * strong AI
-
 * Skinner-Boxing @ FB-Games
-
 * Fallout
     * Some of the bunkers
+
+* Stanley
+    * most of all: meta (about game-design)
+    * work in modern office environments characterized by IT usage
+    * surveillance
 * Rust
     * <https://www.youtube.com/watch?v=eh1zfdUTqBY>
     * [Some Gameplay](https://www.youtube.com/watch?v=GopZRUyxxjw)

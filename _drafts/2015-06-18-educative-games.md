@@ -10,17 +10,8 @@ media_dir: "educative_games"
 * Mirrors Edge
     * intro: criminalisation of activists
     * portraial of surveillance-state
-* League: 
-    * ward's don't help you if you don't watch the minimap
-    * bullying / reporting / tribunal
 * the setting of dishonored?
     * tech-access as measure of power
-* gw2
-    * azura - tech without bounds leading to much risk
-        * they're surveilling trolls (asymetrically)
-        * waking dragons in hunger for energy
-    * char gen: all species, genders, skin colors, body types(?)
-* prison tycoon?
 * shadowrun
 * deus ex?
     * transhumanism
@@ -28,7 +19,16 @@ media_dir: "educative_games"
 * Skinner-Boxing @ FB-Games
 * Fallout
     * Some of the bunkers
+* prison tycoon?
 
+* League: 
+    * ward's don't help you if you don't watch the minimap
+    * bullying / reporting / tribunal
+* gw2
+    * azura - tech without bounds leading to much risk - especially inquest
+        * they're surveilling trolls (asymetrically)
+        * waking dragons in hunger for energy
+    * char gen: all species, genders, skin colors, body types(?)
 * Stanley
     * most of all: meta (about game-design)
     * work in modern office environments characterized by IT usage
@@ -41,4 +41,18 @@ media_dir: "educative_games"
     * <https://www.youtube.com/watch?v=pHAf2AgxET4> @ 29:00
     * ends due to piracy in the version released on piratebay
     * propaganda-game
+
+# unchained bugs
+
+Developer creation doesn't work in FF
+
+can't select games in lecture
+
+# Surveillance tycoon
+
+1x getroffen
+
+* ~12h devving
+* 3h designing
+
 

@@ -21,6 +21,7 @@ media_dir: "educative_games"
     * Some of the bunkers
 * prison tycoon?
 
+* Democracy
 * League: 
     * ward's don't help you if you don't watch the minimap
     * bullying / reporting / tribunal
@@ -33,7 +34,11 @@ media_dir: "educative_games"
     * most of all: meta (about game-design)
     * work in modern office environments characterized by IT usage
     * surveillance
-* Rust
+* Rust (CHECK)
+    * Als Detail des eigentlichen Überlebensspiels: Die Charaktere werden zufällig generiert, inkl. der Hautfarbe. Zusätzlich wird diese Generierung mit der Steam-Id der Spieler*innen initialisiert. Als Resultat ist es nicht möglich das Aussehen der Charaktere zu verändern, mit dem mensch sich zu identifizieren versucht. In der Community werden allerdings nachwievor Spieler*innen aufgrund der Hautfarbe ihres Charakters diskriminiert, was für viele von ihnen, vor allem aus begünstigten
+      Demographien eine Erstmals-Erfahrung war.
+
+      Sehr gut wird dies von Extra-Credits beschrieben:
     * <https://www.youtube.com/watch?v=eh1zfdUTqBY>
     * [Some Gameplay](https://www.youtube.com/watch?v=GopZRUyxxjw)
     * cyberbullying

@@ -30,15 +30,34 @@ media_dir: "educative_games"
         * they're surveilling trolls (asymetrically)
         * waking dragons in hunger for energy
     * char gen: all species, genders, skin colors, body types(?)
+
+<!--
+        Technikfolgen und Wissenschaftsethik in GW2
+
+        * Die Spezies der Azura in Guild Wars 2 portraitiert eine naturwissenschenschaftsbasierte, akademische, technokratische Gesellschaft. Da sie allerdings hauptsächlich technikgetrieben Arbeiten und selten vorher die gesellschaftlichen oder ökologischen Folgen gänzlich durchdenken, erwachsen häufig Gefahren und andere negative Konsequenzen aus ihrem Handeln. Beispielsweise wurde eine der größten Bedrohungen, Primordus, durch ihren Energiehunger geweckt. Andere
+          Themen sind AI-Human-Relationship, Umweltverschmutzung, Elitismus, Umgang mit Versuchspersonen (v.a. mit "geringeren" Spezien), Privatssphäre.
+
+          Im spezifischen ist innerhalb der Azura-Gesellschaft noch die Organisation "Inquest" zu erwähnen. Wenn die akademische Welt Hollywood-Schurken hätte, würden sie sich verhalten die Agenten derselben. Neben einer noch extremeren Ausprägung der toxischen Verhaltensmuster der restlichen Azura-Gesellschaft, thematisiert ArenaNet mit ihnen auch noch Intelectual Property / Patentrecht sowie Publish-or-Perish-Kultur, wenn auch in der Form, als das sie
+          häufig Arbeiten anderer Azura plagiarisieren um Ruhm einzuheimsen bzw neue Waffen zu produzieren.
+
+
+          Grundlegende Awareness für Technikfolgen und Wissenschaftsethik starten.
+
+
+              Azura-Charakter generieren
+                  In den Azura-Gebieten questen & Lore aufmerksam lesen
+                      Living Story spielen
+                      -->
+
 * Stanley
     * most of all: meta (about game-design)
     * work in modern office environments characterized by IT usage
     * surveillance
 * Rust (CHECK)
-    * Als Detail des eigentlichen Überlebensspiels: Die Charaktere werden zufällig generiert, inkl. der Hautfarbe. Zusätzlich wird diese Generierung mit der Steam-Id der Spieler*innen initialisiert. Als Resultat ist es nicht möglich das Aussehen der Charaktere zu verändern, mit dem mensch sich zu identifizieren versucht. In der Community werden allerdings nachwievor Spieler*innen aufgrund der Hautfarbe ihres Charakters diskriminiert, was für viele von ihnen, vor allem aus begünstigten
+    * <!--Als Detail des eigentlichen Überlebensspiels: Die Charaktere werden zufällig generiert, inkl. der Hautfarbe. Zusätzlich wird diese Generierung mit der Steam-Id der Spieler\*innen initialisiert. Als Resultat ist es nicht möglich das Aussehen der Charaktere zu verändern, mit dem mensch sich zu identifizieren versucht. In der Community werden allerdings nachwievor Spieler\*innen aufgrund der Hautfarbe ihres Charakters diskriminiert, was für viele von ihnen, vor allem aus begünstigten
       Demographien eine Erstmals-Erfahrung war.
 
-      Sehr gut wird dies von Extra-Credits beschrieben:
+      Sehr gut wird dies von Extra-Credits beschrieben:-->
     * <https://www.youtube.com/watch?v=eh1zfdUTqBY>
     * [Some Gameplay](https://www.youtube.com/watch?v=GopZRUyxxjw)
     * cyberbullying

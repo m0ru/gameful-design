@@ -5,6 +5,11 @@ date:   2015-06-18 16:52:00
 media_dir: "educative_games"
 ---
 
+# Surveillance tycoon
+
+<http://m0ru.github.io/gameful-design/games/surveillance_tycoon/index.html>
+
+<!--
 # 3 games
 
 * Mirrors Edge
@@ -22,7 +27,7 @@ media_dir: "educative_games"
 * prison tycoon?
 
 * Democracy
-* League: 
+* League:
     * ward's don't help you if you don't watch the minimap
     * bullying / reporting / tribunal
 * gw2
@@ -59,5 +64,4 @@ can't select games in lecture
 
 * ~12h devving
 * 3h designing
-
-
+-->

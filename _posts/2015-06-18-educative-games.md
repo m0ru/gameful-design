@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Challenge 6 ⇾ Educative Games"
+title:  "Challenge 6 ⇾ Surveillance Tycoon"
 date:   2015-06-18 16:52:00
 media_dir: "educative_games"
 ---
+
+<!-- topic: educative games -->
 
 # Surveillance tycoon
 

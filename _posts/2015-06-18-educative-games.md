@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Challenge 6 -> Educative Games"
+title:  "Challenge 6 ⇾ Educative Games"
 date:   2015-06-18 16:52:00
 media_dir: "educative_games"
 ---

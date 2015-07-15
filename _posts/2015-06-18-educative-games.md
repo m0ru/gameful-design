@@ -7,9 +7,48 @@ media_dir: "educative_games"
 
 <!-- topic: educative games -->
 
-# Surveillance tycoon
+<a href="http://m0ru.github.io/gameful-design/games/surveillance_tycoon/index.html" class="material-button">Play Me!</a>
 
-<http://m0ru.github.io/gameful-design/games/surveillance_tycoon/index.html>
+<!--
+
+Designing 
+
+1x getroffen
+
+* ~12h devving
+* 3h designing
+* 4h docu
+
+-->
+
+## Sketches
+
+{% for i in (1..5) %}
+<a href="{{site.media_url}}/{{page.media_dir}}/sketches/{{i}}.png">
+    <img src="{{site.media_url}}/{{page.media_dir}}/sketches/{{i}}.png" class="figure">
+</a>
+{% endfor %}
+
+<a href="{{site.media_url}}/{{page.media_dir}}/whiteboard/all-the-games.png">
+    <img src="{{site.media_url}}/{{page.media_dir}}/whiteboard/all-the-games.png" class="figure">
+</a>
+
+<a href="{{site.media_url}}/{{page.media_dir}}/whiteboard/social-capital-meter.png" >
+    <img src="{{site.media_url}}/{{page.media_dir}}/whiteboard/social-capital-meter.png" class="figure">
+</a>
+<a href="{{site.media_url}}/{{page.media_dir}}/whiteboard/build-options.png">
+    <img src="{{site.media_url}}/{{page.media_dir}}/whiteboard/build-options.png" class="figure">
+</a>
+<a href="{{site.media_url}}/{{page.media_dir}}/whiteboard/gui.png">
+    <img src="{{site.media_url}}/{{page.media_dir}}/whiteboard/gui.png" class="figure">
+</a>
+<a href="{{site.media_url}}/{{page.media_dir}}/whiteboard/income-and-setting.png">
+    <img src="{{site.media_url}}/{{page.media_dir}}/whiteboard/income-and-setting.png" class="figure">
+</a>
+<a href="{{site.media_url}}/{{page.media_dir}}/whiteboard/initial.png">
+    <img src="{{site.media_url}}/{{page.media_dir}}/whiteboard/initial.png" class="figure">
+</a>
+
 
 <!--
 # 3 games
@@ -39,7 +78,6 @@ media_dir: "educative_games"
         * waking dragons in hunger for energy
     * char gen: all species, genders, skin colors, body types(?)
 
-<!--
         Technikfolgen und Wissenschaftsethik in GW2
 
         * Die Spezies der Azura in Guild Wars 2 portraitiert eine naturwissenschenschaftsbasierte, akademische, technokratische Gesellschaft. Da sie allerdings hauptsächlich technikgetrieben Arbeiten und selten vorher die gesellschaftlichen oder ökologischen Folgen gänzlich durchdenken, erwachsen häufig Gefahren und andere negative Konsequenzen aus ihrem Handeln. Beispielsweise wurde eine der größten Bedrohungen, Primordus, durch ihren Energiehunger geweckt. Andere
@@ -82,10 +120,4 @@ Developer creation doesn't work in FF
 
 can't select games in lecture
 
-# Surveillance tycoon
-
-1x getroffen
-
-* ~12h devving
-* 3h designing
 -->

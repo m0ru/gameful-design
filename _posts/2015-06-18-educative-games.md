@@ -22,6 +22,7 @@ media_dir: "educative_games"
 * shadowrun
 * deus ex?
     * transhumanism
+    
     * strong AI
 * Skinner-Boxing @ FB-Games
 * Fallout
@@ -56,6 +57,7 @@ media_dir: "educative_games"
                       Living Story spielen
                       -->
 
+<!--
 * Stanley
     * most of all: meta (about game-design)
     * work in modern office environments characterized by IT usage
@@ -65,6 +67,7 @@ media_dir: "educative_games"
       Demographien eine Erstmals-Erfahrung war.
 
       Sehr gut wird dies von Extra-Credits beschrieben:-->
+<!--
     * <https://www.youtube.com/watch?v=eh1zfdUTqBY>
     * [Some Gameplay](https://www.youtube.com/watch?v=GopZRUyxxjw)
     * cyberbullying

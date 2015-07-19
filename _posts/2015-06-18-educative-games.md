@@ -11,7 +11,7 @@ media_dir: "educative_games"
 
 Here's also a short *gameplay video* if you don't want to try it yourself (for whatever reason) or think you have missed something. It also shortly discusses the design:
 
-<video src="{{site.media_url}}/{{page.media_dir}}/gameplay.mp4" style="height: 360px; width: 640px" controls></video>
+<video src="{{site.media_url}}/{{page.media_dir}}/gameplay_720p.mp4" style="height: 360px; width: 640px" controls></video>
 
 ## Design Process
 

@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "Challenge 2 ⇾ Pillow Fight"
+title:  "Board Game: Pillow Fight"
 date:   2015-03-25 21:30:00
 media_dir: "pillow_fight"
+excerpt_separator: <!--break-->
+thumbnailUrl: /gameful-design/media/pillow_fight/late_game.jpg
 ---
+
+Pillow Fight is our solution to the challenge to design a wargame without borders (in our case, even without deaths).
+
+<!--break-->
 
 # The Challenge - No Frontier
 
@@ -64,7 +70,7 @@ If a pillow is adjacent to your character or directly below you, you can pick it
 ### Attacking
 
 You can attack a player if you are **holding a pillow** and you are either standing next to them or there are no walls in the way.
-Attacking is done by selecting a target and rolling a die. The targeted person can then defend by rolling another die. If you **roll** a **higher** number than them, you hit them and score a point. 
+Attacking is done by selecting a target and rolling a die. The targeted person can then defend by rolling another die. If you **roll** a **higher** number than them, you hit them and score a point.
 You can only attack **once per turn**.
 
 There are two ways of attacking an opponent:
@@ -72,9 +78,9 @@ There are two ways of attacking an opponent:
 **Pillow Swinging (Melee)**
 
 If you stand next to a player you can hit them with your pillow directly. This lets you **keep your pillow**, but if you roll a 1 or 2, your **pillow gets torn** (and removed from the game).
-    
+
 **Pillow Throwing (Ranged)**
-    
+
 You can throw a pillow if there are no walls between you and your target (there's no range limitation). Your opponent might use cover to protect themselves from your throw (explained in the cover section).
 
 When throwing, you **lose your pillow**. The pillow will either land **at your targets feet** or, if they don't have a pillow in their hand and roll a 5 or higher, **they catch it** - which is the same as picking up a pillow.
@@ -109,7 +115,7 @@ The **first-turn advantage** solves itself, as going first means you get to **th
 The following photo was taken at the end of our last playtest. Due to melee mechanic that allows for **pillows to tear**, almost all pillows were used up (except for the top right corner). We have included that mechanic **to fix "melee"**, which models hits with pillows where you keep holding them. The last part was what made it superior in almost all situations to throwing (and thus losing) your pillow. Before we introduced the mechanic, games consisted of people just piling somewhere on the map and taking turns to just roll the dice, thus forgoing the **game depth** that comes from **positioning** and **planning** with and around the use of **cover**. Now there's a definitive **trade-off** between melee and ranged that has to be evaluated for every situation, thus adding **choice**
 
 ![Board during Late Game]({{site.media_url}}/{{page.media_dir}}/late_game.jpg)
- 
+
 We suggest playing the game with at least three players or factions, as this allows for the third party to exploit and thus break-up stale-mates between the first two. This ensures a dynamic gameplay. Also the possibilty for alliances somewhat counter-balances any inequalities from different skill-levels to imbalanced map setup.
 
 
@@ -117,7 +123,7 @@ We suggest playing the game with at least three players or factions, as this all
 
 Sadly we didn't have the time to play-test the following (as ideas for those came only shortly before or while writing this documentation):
 
-* full-defense action: gives +1; rebalance by weighing tie braker in favour of attacker 
+* full-defense action: gives +1; rebalance by weighing tie braker in favour of attacker
 * catching also works in close-combat (is pillow theft then)
 * melee blocking: having a pillow in defense gives +1
 * 2-3 fragile objects, if they shatter the game ends

@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Challenge 3,  Audience Participation"
+title:  "Audience Participation―The Challenge"
 date:   2015-04-01 15:45:20
 media_dir: "gameful_concerts"
+excerpt_separator: <!-- break -->
+excerpt: Entwerfen Sie ein Szenario im Kontext von Live-Musik, das Publikumsbeteiligung bzw. kollaborativeElemente zwischen Performer und Publikum vorsieht. Übung in Gruppen zu je 3 Personen.
 ---
+ <!-- break -->
 
 # The Challenge
 
@@ -12,6 +15,8 @@ media_dir: "gameful_concerts"
 [Full challenge](https://owncloud.tuwien.ac.at/public.php?service=files&t=9123d3c40e9d88a17fdc3253234d06ce&download)  (copied below for convienience)
 
 Entwerfen Sie ein Szenario im Kontext von Live-Musik, das Publikumsbeteiligung bzw. kollaborativeElemente zwischen Performer und Publikum vorsieht. Übung in Gruppen zu je 3 Personen.
+
+<!–- break –->
 
 ## Schritt 1a (in VO):
 

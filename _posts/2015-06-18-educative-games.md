@@ -1,17 +1,18 @@
 ---
 layout: post
-title:  "Challenge 6 ⇾ Surveillance Tycoon"
+title:  "Edu Game ⇾ Surveillance Tycoon"
 date:   2015-06-18 16:52:00
 media_dir: "educative_games"
+excerpt_separator:  <!-- break -->
 ---
-
-<!-- topic: educative games -->
 
 <a href="http://m0ru.github.io/gameful-design/games/surveillance_tycoon/index.html" class="material-button">Play Me!</a>
 
 Here's also a short *gameplay video* if you don't want to try it yourself (for whatever reason) or think you have missed something. It also shortly discusses the design:
 
 <video src="{{site.media_url}}/{{page.media_dir}}/gameplay_720p.mp4" style="height: 360px; width: 640px" controls></video>
+
+ <!-- break -->
 
 ## Design Process
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Edu Game ⇾ Surveillance Tycoon"
+title:  "Edu Game: Surveillance Tycoon"
 date:   2015-06-18 16:52:00
 media_dir: "educative_games"
 excerpt_separator:  <!-- break -->

@@ -6,7 +6,9 @@ media_dir: "educative_games"
 excerpt_separator:  <!-- break -->
 ---
 
-You can [play “Surveillance Tycoon” here](http://m0ru.github.io/gameful-design/games/surveillance_tycoon/index.html).
+You can play “Surveillance Tycoon” here:
+
+[Play Me!](http://m0ru.github.io/gameful-design/games/surveillance_tycoon/index.html).
 
 Here's also a short *gameplay video* if you don't want to try it yourself (for whatever reason) or think you have missed something. It also shortly discusses the design:
 

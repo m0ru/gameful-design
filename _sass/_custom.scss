@@ -1,3 +1,22 @@
+
+.video {
+    $width: $content-width - $spacing-unit * 2;
+    width: $width;
+    max-width: $width;
+    height: $width * 360/640;
+    max-height: $width * 360/640;
+    margin-right: auto;
+    margin-left: auto;
+
+    @include media-query($on-laptop) {
+        $width: $content-width - $spacing-unit;
+        width: $width;
+        max-width: $width;
+        height: $width * 360/640;
+        max-height: $width * 360/640;
+    }
+}
+
 .thumbnail {
     max-height: 7em;
     max-width: 7em;
@@ -30,10 +49,10 @@
   outline: none;
   border-radius: 2px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
-  
+
   background-color: $brand-color;
   color: white;
-  
+
   transition: background-color .3s;
   padding: 0.75em 1.5em;
 }
@@ -50,19 +69,19 @@
 
 .material-button:before {
   content: "";
-  
+
   position: absolute;
   top: 50%;
   left: 50%;
-  
+
   display: block;
   width: 0;
   padding-top: 0;
-    
+
   border-radius: 100%;
-  
+
   background-color: rgba(236, 240, 241, .3);
-  
+
   -webkit-transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
@@ -73,7 +92,6 @@
 .material-button:active:before {
   width: 120%;
   padding-top: 120%;
-  
+
   transition: width .2s ease-out, padding-top .2s ease-out;
 }
-

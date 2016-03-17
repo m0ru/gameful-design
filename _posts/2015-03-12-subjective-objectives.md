@@ -6,7 +6,7 @@ media_dir: "subjective_objectives"
 excerpt_separator: <!-- break -->
 ---
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6rC-Hhn9mKB0?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/rC-Hhn9mKB0?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
 
 
 <!-- break -->

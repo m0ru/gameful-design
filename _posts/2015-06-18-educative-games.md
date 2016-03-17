@@ -10,7 +10,7 @@ excerpt_separator:  <!-- break -->
 
 Here's also a short *gameplay video* if you don't want to try it yourself (for whatever reason) or think you have missed something. It also shortly discusses the design:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ZvPPgkJhQyk?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/ZvPPgkJhQyk?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
 
  <!-- break -->
 

@@ -6,7 +6,8 @@ media_dir: "subjective_objectives"
 excerpt_separator: <!-- break -->
 ---
 
-<video src="{{site.media_url}}/{{page.media_dir}}/subjective_objective_playtest.mp4" style="height: 360px; width: 640px" controls></video>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6rC-Hhn9mKB0?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
+
 
 <!-- break -->
 

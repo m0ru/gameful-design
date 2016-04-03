@@ -1,0 +1,111 @@
+---
+layout: post
+title:  "Destinies"
+date:   2016-04-03 17:52:00
+media_dir: "destinies_and_ambulance"
+excerpt_separator: <!--break-->
+---
+
+<img src="{{site.media_url}}/{{page.media_dir}}/destinies.png" class="figure">
+
+One of the two game ideas for this weeks should be
+an “impossible” game by deconstructing a genre. The
+challenge is to reduce such a genre to it’s core
+mechanics and then remove one of
+those, essentially making it “impossible” to adhere
+to the genre-as-is. Examples would be “RTS without units”
+“Beat Game without Music” or “RPG without playing a character”.
+
+“Destinies” results from the last primary generator. instead
+of playing a character, the two players play disembodied forces
+of luck and misfortune, triumph and defeat. A rather dim-witted
+hero stumbles through a dungeon in an attempt to get the loot
+and rescue the world. The player of luck plays cards to see
+them succeed, whereas misfortune tries to make their life harder.
+
+<!--break-->
+
+The simplest mechanic for moving the hero would be, to have
+them follow the right-hand rule―while prohibiting circles
+in the dungeon. If they meet a challenge, they role
+3dFudge (dice with ‘-1’, ‘0’, ‘+1’), sum them and add
+their relevant stat and compare it with the difficulty
+of the challenge to see if they've made it. If they fail,
+they take the challenges consequences.
+
+## Stats and challenges:
+
+* “Combat” vs monsters
+* “Reflexes” vs traps
+* “Intelligence” vs puzzles
+
+## Cards
+
+Most cards should have trade-offs, e.g. harder monster
+yield more treasure to the hero that makes them better
+in tackling later challenges.
+
+For card-draw, per default draw-one-play-one
+should be tried out. Either both players draw
+from the same deck and there’s a mechanic for discarding
+cards, or both get their separate decks.
+
+Card-ideas for Luck:
+
+* Level-up: Improves one of the heroes stats
+* Item: places an item in a room. The hero picks it up,
+if they wander into that room. The item-card specifies when
+it will be used and what benefit it brings, e.g. heal, add a
+one-time bonus vs a certain challenge type, teleport the hero,...
+* Shift rooms (think “mad labyrinth”)
+* Place rooms
+* Hidden Door: a sufficiently aware/intelligent hero can find it
+and take short-cut, possibly skipping some dangers.
+
+Card-ideas for Misfortune:
+
+* Place traps, e.g. poison that decreases a stat, a fireball that deals damage
+* Cursed Item: works similiar to the Luck-players ‘Item’-card
+but with negative effects
+* Shift rooms (think “mad labyrinth”)
+* Place rooms
+* Place (wandering) monsters
+* Place puzzles, e.g. they might block off a dead-end
+(read: non-critical path) that contains treasure
+* Place alcohol: the trusting, short-sighted hero drinks it
+and some stat decreases
+* Cave-In: Blocks one of several paths to the goal. This card
+shouldn’t be used with a hero following the right-hand-rule.
+* Overlooked Door: this door is ignored for the next application
+of the right hand rule. Remove the condition after that.
+
+<img src="{{site.media_url}}/{{page.media_dir}}/sketches_01.jpg" class="figure">
+<img src="{{site.media_url}}/{{page.media_dir}}/sketches_04.jpg" class="figure">
+
+
+
+
+
+
+
+
+<!--
+
+<a href="{{site.media_url}}/{{page.media_dir}}/WhiteboardPics/meta.jpg">
+    <img src="{{site.media_url}}/{{page.media_dir}}/WhiteboardPics/meta.jpg" class="figure">
+</a>
+
+
+This is the first of a set of sketches for the VU “Game Design” at the Vienna University of Technology. The idea for the game is rather simple―instead of playing the big onscreen-characters, you’re playing the small side-element. Imagine mellow, emotionally music playing while you use swipes or presses to generate small gust of wind, which blow along a feather and carry it along through a maze of difficulties to finally reach Forrest.
+
+An alternative mechanic also playing with the theme “wind” was an autumn-themed game. All the trees are losing their leafes, which need to be blown along to clear the boardwalk. Again using swipses sources can be placed that blow into the swiped direction. Constructing a path from multiple of these, a stream of leafes is moved out of the way, e.g. to garbage bins.
+
+sketches-3.jpg
+
+feather.svg
+
+
+
+sketches-1.jpg  sketches-2.jpg    waves.jpg
+
+-->

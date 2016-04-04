@@ -16,7 +16,7 @@ those, essentially making it “impossible” to adhere
 to the genre-as-is. Examples would be “RTS without units”,
 “Beat Game without Music” or “RPG without playing a character”.
 
-“Destinies” results from the last primary generator. instead
+“Destinies” results from the last of these primary generators. instead
 of playing a character, the two players play disembodied forces
 of luck and misfortune, triumph and defeat. A rather dim-witted
 hero stumbles through a dungeon in an attempt to get the loot

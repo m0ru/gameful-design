@@ -17,7 +17,10 @@ drives the car, in a simplified version this is just the three lanes
 seen in the sketch, the other person tries to keep the patient alive until
 they reach the hospital by playing a game of dexterity. Every time
 the driver makes sudden movements, the medics job becomes
-harder―life-threatening errors ensue.
+harder―life-threatening errors ensue. Thus it’s necessary that
+the players, who are sitting next to each other and playig on
+their phones, communicate well―especially the driver before
+they make maneuvers.
 
 <!--break-->
 

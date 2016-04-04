@@ -81,3 +81,17 @@ of the right hand rule. Remove the condition after that.
 
 <img src="{{site.media_url}}/{{page.media_dir}}/sketches_01.jpg" class="figure">
 <img src="{{site.media_url}}/{{page.media_dir}}/sketches_04.jpg" class="figure">
+
+## Feedback
+
+Most people thought it was too complicated, respectively hard to understand.
+
+It might be interesting if the hero’s position is unknown
+(“Mr. X”-style). It probably would be better if both used
+the same deck and fortune needs to play misfortune cards
+in a way that the hero can beat them easily and reap the
+treasures. Also a labeled die that in most cases causes
+a movement towards the goal might be more interesting.
+
+Lev, however added, that the game has potential if these
+challenges are tackled and clarified.

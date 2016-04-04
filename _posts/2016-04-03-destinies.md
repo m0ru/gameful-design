@@ -13,7 +13,7 @@ an “impossible” game by deconstructing a genre. The
 challenge is to reduce such a genre to it’s core
 mechanics and then remove one of
 those, essentially making it “impossible” to adhere
-to the genre-as-is. Examples would be “RTS without units”
+to the genre-as-is. Examples would be “RTS without units”,
 “Beat Game without Music” or “RPG without playing a character”.
 
 “Destinies” results from the last primary generator. instead

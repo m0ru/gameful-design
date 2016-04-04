@@ -12,7 +12,7 @@ For this game we were asked to use a random generator. One of
 the combinations the wonderful
 [grow-a-game cards](http://valuesatplay.org/grow-a-game-overview)
 spit out, was “Cooperation-Disease-GTA-Creativity”, which inspired Marie and me
-to a cooperative racing game in the health-sector―“Ambulance”. One player
+to a cooperative racing game in the health-sector &ndash; “Ambulance”. One player
 drives the car, in a simplified version this is just the three lanes
 seen in the sketch, the other person tries to keep the patient alive until
 they reach the hospital by playing a game of dexterity. Every time

@@ -8,7 +8,7 @@ excerpt_separator: <!--break-->
 
 <img src="{{site.media_url}}/{{page.media_dir}}/racing_all.png" class="figure">
 
-TL;DR: A racing game, where you try to get your slowest team-member across the finish line first and can discover and do hidden jumping-and-bumping-challenges to activate special effects along the race track at the cost of occupying a team-member for a while.
+TL;DR: A racing game, where you try to get your slowest team-member across the finish line first and can discover and do hidden jumping-and-bumping-challenges to activate special effects along the race track at the cost of occupying a team-member for a while. This is our solution for the challenge to introduce an easter-egg into a game that is a distinct game itself.
 
 <!--break-->
 
@@ -56,3 +56,22 @@ For the special it turns out, that most buffs are more advantageous for the team
 * Do laps? This allows reversing.
 * More or less team-members
 * More than two teams
+* Get out anywhere and build stuff, basically turning this into a full-on tower-defense mode with all implications (e.g. resource-management)
+* At maximum one person per team can leave their car. Choose the special to go for wisely.
+* There’s one overall engineer-token, that’s needed for specials. It changes hands when you’re getting rammed.
+* Alternative puzzles instead of jumping and bumping―e.g. logic puzzles.
+
+## Other Game Ideas
+
+* For leaving the level: abuse a “typical” glitch, also breaking the fourth wall.
+  * A hacking game alla [Dr. Eval](https://alexnisnevich.github.io/untrusted/) built into another single-player game.
+  * Fall out of the map in a shooter. Now viewing the map from below, it turns into a jump’n’run, where you can stomp/head-butt opponents for some damage or coins
+* A side-scrolling jump’n’run, that rotates 90° and then falls back into a over-the-shoulder racing game.
+* A racing game where you leave the car or fall into a pond, get transformed into a frog and avoid getting run over (remotely like frogger)
+* Based on a thought of Felix: A bullet-hell shooter where you can't shoot. You can kill enemies via friendly fire, playing the two factions against each other or via a place-swapping ability.
+* A stealth game set to break-beat dubstep where you need to freeze under scrutiny and move otherwise. You play household electronics come to life.
+* A coop where you’re playing a level in parallel but split in time, one person in the past, one in the future. The problem: only the past can influence the future. An interesting variant on this is [Super Time Force](https://www.youtube.com/watch?v=Uh4f30VVhbk))
+* A stealth game but you’re playing the guards (Tropico?)
+* Wiktor Manczarski’s idea: A stealth game, but you’re playing “randomness” (e.g. a radio that switches on to draw the attention of the guards away from the unwitting protagonist)
+* visual novel but leave dialog somehow?
+* A plattformer where the background can become the foreground, obstacles become space and vis-versa.

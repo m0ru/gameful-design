@@ -63,7 +63,7 @@ For the special it turns out, that most buffs are more advantageous for the team
 
 ## Other Game Ideas
 
-* For leaving the level: abuse a “typical” glitch, also breaking the fourth wall.
+* For leaving the level: abuse a “typical” glitch, also breaking the fourth wall in the process.
   * A hacking game alla [Dr. Eval](https://alexnisnevich.github.io/untrusted/) built into another single-player game.
   * Fall out of the map in a shooter. Now viewing the map from below, it turns into a jump’n’run, where you can stomp/head-butt opponents for some damage or coins
 * A side-scrolling jump’n’run, that rotates 90° and then falls back into a over-the-shoulder racing game.

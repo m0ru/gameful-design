@@ -56,7 +56,3 @@ For the special it turns out, that most buffs are more advantageous for the team
 * Do laps? This allows reversing.
 * More or less team-members
 * More than two teams
-* Get out anywhere and build stuff, basically turning this into a full-on tower-defense mode with all implications (e.g. resource-management)
-* At maximum one person per team can leave their car. Choose the special to go for wisely.
-* There’s one overall engineer-token, that’s needed for specials. It changes hands when you’re getting rammed.
-* Alternative puzzles instead of jumping and bumping―e.g. logic puzzles.

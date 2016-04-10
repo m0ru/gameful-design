@@ -35,3 +35,18 @@ As a hidden game-mode, there’s several locations along the racing track, where
     * Crashing through a window into a house
 
 The huge trade-off should be, that the team sends a driver ahead to use on of these spots, looses them for attack and defense on the track. Also, timing is critical―drive ahead too early and lose time, drive ahead to late and you might be too late to activate the special. To increase the time-cost of activating the special, it should take a while to activate it. For this they need to go through a short jumping puzzle and knock a gatekeeper-boss off it’s platform. If multiple players rush for the special, they can knock each other off.
+
+## Specials
+
+<img src="{{site.media_url}}/{{page.media_dir}}/racing3.png" class="figure">
+
+* Short-cuts
+* Acceleration-strips
+* (Moving) roadblocks that are dodge-able or circumventable.
+* A tower that repeatedly targets and shoots at passing cars. Visual cues allow dodging the shots easily in a fast-car, but almost impossibly in a slow-car. Thus fast-cars should draw aggro away from their slow-car and ideally onto the enemy one.
+* A teleporter that resets back to an earlier position or acts as a short-cut
+* Pits
+* Map zooms out to allow targeting an orbital laser.
+
+
+For the special it turns out, that most buffs are more advantageous for the team who’s slow-car is behind and neutral if used by the leading team―e.g. a shortcut or acceleration strip stays activated for the slower team giving them the same advantage. Conversely agnostically harmful specials favor the leading team, as they can wait for their slow-car to pass-by it’s location before they activate it.
